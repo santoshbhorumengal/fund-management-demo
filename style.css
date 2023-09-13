@@ -1,0 +1,68 @@
+.navbar{ 
+    height: 150px;
+    width: auto;
+    background-color: rgb(40, 40, 220);
+   border-color: brown;
+   border-radius: 20px;
+    color: white;
+    text-align: justify;
+border-style: double;
+
+}
+h1{
+    color: chocolate;
+    text-align: center;
+    font-size: 45px;
+}
+
+body{
+    background-color: rgb(93, 221, 221);
+}
+#box{
+       color: blueviolet;
+    background-color: black;
+    text-shadow: 10px;
+    text-align: var(15px);
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 20px;
+    height: 50px;
+ width: max-content;
+ text-align: left;
+
+}
+button{
+    background-size: 90px;
+    color: rgb(238, 58, 13);
+    background-position-x: center;
+    background-size: 50px;
+    text-transform: uppercase;
+
+
+}
+p{
+    text-align: center;
+    color: rgb(39, 39, 222);
+}
+a{
+    margin: 30px;
+    text-shadow: 20px;
+    font-size: larger;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    text-decoration-color: blueviolet;
+    color: brown;
+    font-size: 20px;
+    height: 60px;
+    border-radius: 20px;
+    border-style: double;
+}
+#content1{
+margin: 30px;
+background-color: darkorange;
+}
+#content101{
+    width: 100px;
+}
